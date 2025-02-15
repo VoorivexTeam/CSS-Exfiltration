@@ -1,4 +1,7 @@
 # CSS-Exfiltration
+<p align="center">
+  <img src="css-data-exfiltration.png" alt="Cover Image">
+</p>
 
 1. Run the code with:
 ```
