@@ -1,0 +1,4 @@
+html:has(script[src*="?auth_token=10"]) div:is(div) {
+    background-color: blue;
+    display: block;
+}

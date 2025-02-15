@@ -1,0 +1,5 @@
+@import 'blue.css';
+html:has(script[src*="?auth_token=10"]) div {
+    background-color: red;
+    display: block;
+}
